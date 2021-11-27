@@ -4,7 +4,7 @@ Rotating Navigation is a cool UI trick to show the menu. This used HTML, CSS, an
 
 ## Video Demo
 
-https://youtu.be/jZ3C6938wts
+https://youtu.be/TVd6m8Q15Gs
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
