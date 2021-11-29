@@ -99,7 +99,7 @@ h1{
 
 .faq.active .faq-toggle .fa-times{
     display: block;
-    color: white
+    color: white;
 }
 
 .faq.active .faq-toggle .fa-chevron-down{
