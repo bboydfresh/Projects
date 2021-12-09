@@ -1,0 +1,30 @@
+
+
+h1{
+    margin-top: 0px;
+}
+
+html{
+    margin-top: 0px;
+}
+
+body{
+    margin: 0;
+}
+.top{
+    height: 200px;
+    width: 200px;
+    background-color: burlywood;
+}
+
+.middle{
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+}
+
+.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: darkturquoise;
+}
